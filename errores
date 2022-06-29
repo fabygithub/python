@@ -11,6 +11,7 @@ return yaml.load(data_file, Loader=yaml.FullLoader)
 
 per this update to yaml:
 https://github.com/yaml/pyyaml/wiki/PyYAML-yaml.load(input)-Deprecation
+pip install chatterbot_corpus
 
 
 
