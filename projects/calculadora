@@ -1,4 +1,6 @@
 https://www.youtube.com/watch?v=nh0Jeclyvt8&t=300s&ab_channel=MundoPython
+vamos a desarrollar una calculadora
+utilizando una libreria que ya viene incluida en python
 
 columsnap
 espacio entre las columnas
@@ -18,6 +20,18 @@ y almacenarlo en la variable ecuacion
 ahora vamos a evaluar el resultado
 cuando tengamos el resultado vamos a borrar la caja de texto
 // e_texto.delete(0,END)   #esto significa que elimina desdes 0 hasta el final la caja de texto
+// e_texto.insert(0,resultado)  #lo que hace insertar el resultado en la caja de texto
+// i = 0  #volver a inicializar le indice en 0 para que cuando insertemeos mas numeros comienze desde 0
+ahora vamos a probar la calculadora
+debemos pasar los metodo a los botones
+// boton_igual = Button(ventana, text= "=", width = 5, height = 2,command = lambda : hacer_operacion())
+# lo que hacemos aca es cuando se presione el boton se llama a la funcion hacer_operacion
+con eval podemos sumar restar multiplicar dividir y eval sacara el resultado
+la calculadora es una aplicacion grafica
+la funcionalidad es muy sencilla
+crear mas aplicaciones graficas
+juegos etc
+
 
 
 
