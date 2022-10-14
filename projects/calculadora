@@ -2,9 +2,23 @@ https://www.youtube.com/watch?v=nh0Jeclyvt8&t=300s&ab_channel=MundoPython
 
 columsnap
 espacio entre las columnas
+aprovechar todas las funciones
+para esos fueron creadas
+tenemos una ecuacion en cadena de carateres
+// ecuacion = "5 + 10 * 2" #tenemos una ecuacion en cadena de caracteres
+entonces le vamos a pasar ese string a la funcion eval
+//resultado = eval(ecuacion) #la funcion eval ya viene determinada en python calcula el resultado
+para no volver a invertar la rueda
+se utilizan funciones que ya han sido creadas
+y ahora simplemente imprimimos el resultado
+// def hace_operacion  #crear una funcion  
+entonces decimos que ecuacion es igual a entrada de texto
+// ecuacion  = e_texto.get()  #.get() sirve para obtener todo lo que hay en la caja de texto
+y almacenarlo en la variable ecuacion
+ahora vamos a evaluar el resultado
+cuando tengamos el resultado vamos a borrar la caja de texto
+// e_texto.delete(0,END)   #esto significa que elimina desdes 0 hasta el final la caja de texto
 
-15
-20
 
 
 
