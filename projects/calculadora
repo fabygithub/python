@@ -1,4 +1,5 @@
 https://www.youtube.com/watch?v=nh0Jeclyvt8&t=300s&ab_channel=MundoPython
+t1,2
 vamos a desarrollar una calculadora
 utilizando una libreria que ya viene incluida en python
 la cual se utiliza para hacer aplicaciones graaficas
@@ -6,6 +7,36 @@ desarrollar un proyecto
 la programacion de estos proyectos es muy sencilla
 saber los basico variables,funciones,ciclos etc
 no se utiliza programacion orientada a objetos
+en la aplicacion que hace
+podemos sumar,restar,dividir,etc
+// vamos a importar todo
+from thinker import *  
+//vamos a crear la ventana
+ventana = Tk()
+// a la ventana le vamos a agregar un titulo
+ventana.title("Calculadora")
+//metodo main reconocer todos lo metodos ahora podemos ejecutar el programa
+vetana.mainloop()
+// ahora tenemos una ventana con el titulo calculadora
+// el primer elemento de la ventana sera una entrada de texto
+// crear una entrada de texto, el primer argumento donce va a estar la entrada
+// primer argumento ventana
+// segundo argumento tipo de fuente del texto = calibri tamaño 20
+e_texto = Entry(ventana,font=("Calibri 20"))
+//grid nos permite ver la posicion de los elementos
+// este seria el primer elemento
+e_texto.grid(row=0,column=0)
+//columnspan van a existir 4 columnas debajo de ese widget
+// espacio horizontal y vetical entre la pantalla y el elemento 
+padx = 50
+pady = 5
+
+
+
+
+
+
+
 
 columsnap
 espacio entre las columnas
