@@ -30,12 +30,13 @@ e_texto.grid(row=0,column=0)
 // espacio horizontal y vetical entre la pantalla y el elemento 
 padx = 50
 pady = 5
+// crear los botones
+// boton va a vivir en ventana
+// le vamos a agregar un texto
+// y un ancho y un alto
+texto = ""
 
-
-
-
-
-
+button = Button(ventana,text="",width=5,height=2)
 
 
 columsnap
