@@ -112,4 +112,41 @@ y el punto de partida para
 iniciar una carrera en el desarrollo de software, 
 programación en Python y tecnologías relacionadas.
 
+15-11-2022
 
+Python Essentials 1 (PE1) 
+Examen Final del Curso
+
+Desplázate hacia abajo  
+y selecciona ‘Proyecto Final’ 
+para comenzar. El Proyecto Final 
+es el último laboratorio del curso.
+
+¡Bien hecho! Has llegado al final del curso 
+y completado un paso importante en tu educación 
+de programación en Python.
+
+Ahora estás preparado para enfrentar el último desafío, 
+la Prueba Final, que te ayuda a repasar la información 
+más importante que has leído y 
+a evaluar las habilidades y los conocimientos 
+que has adquirido a lo largo del curso.
+
+La Prueba Final se basa en lo que has aprendido en todo el curso. 
+Hay 35 preguntas en total, y debes obtener 
+al menos un 70% para aprobar. 
+¡Buena suerte!
+
+¿Cuál es el resultado del siguiente fragmento de código?
+
+my_list = [1, 2]
+ 
+for v in range(2):
+    my_list.insert(-1, my_list[v])
+ 
+print(my_list)
+ 
+ https://www.daypo.com/pe1-evaluacion-parcial-python-cisco.html
+ https://itexam24.com/pcap-programming-essentials-in-python/pcap-programming-essentials-in-python-quizzes-summary-test-1-answers/
+ 
+ 
