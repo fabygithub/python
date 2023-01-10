@@ -19,6 +19,33 @@ el problema de debe a que la ruta esta mala
 esta es la ruta correcta
 C:\Users\USUARIO\AppData\Local\Programs\Python\Python311\Scripts\
 
+This is an issue with the package mentioned above, not pip.
+Error while installing pytq5 with pip: Preparing metadata (pyproject.toml) did not run successfully
+
+another solution that could work is using --use-deprecated=backtrack-on-build-failures
+
+Example:
+
+pip install turtle --use-deprecated=backtrack-on-build-failures
+python3 -m pip install pygame
+answer : use node.js command prompt
+pip install notebook --upgrade
+pygame error metadata-generation-failed
+Pygame isn't updated for python 3.11, but you can still install a pre-version with pip install pygame --pre
+Successfully installed pygame-2.1.3.dev8
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
