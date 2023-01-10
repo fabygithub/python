@@ -13,6 +13,11 @@ per this update to yaml:
 https://github.com/yaml/pyyaml/wiki/PyYAML-yaml.load(input)-Deprecation
 pip install chatterbot_corpus
 
+09-01-2023
+no se reconoce pip 
+el problema de debe a que la ruta esta mala
+esta es la ruta correcta
+C:\Users\USUARIO\AppData\Local\Programs\Python\Python311\Scripts\
 
 
 
