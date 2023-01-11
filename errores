@@ -34,6 +34,32 @@ pygame error metadata-generation-failed
 Pygame isn't updated for python 3.11, but you can still install a pre-version with pip install pygame --pre
 Successfully installed pygame-2.1.3.dev8
 
+no moduled named pygame_menu
+pip install pygame-menu
+
+"q" key was pressed
+and Game ended
+Exited Life Phase
+Game Ended
+
+imagen de fondo
+imagen para dibujar
+photoshop
+programa de edicion de imagenes
+le hacen una transparencia por ejemplo del 50%
+y guardarlo como png
+se guarda una imagen por cada interaccion del script
+y se guardara un archivo pickles donde se guarda toda 
+la informacion de las celdas las posiciones etc
+buscar informacion en la red
+
+imagen de fondo de marilyn monroe
+imagen con transparencia
+cambiar la imagen 
+si quieren hacer otra
+
+
+
 
 
 
