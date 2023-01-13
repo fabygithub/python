@@ -8,3 +8,15 @@ print("hello world")
 basic programs
 executed by python
 draw shape
+set instructions
+little triangle
+
+print("    /|")
+print("   / |")
+print("  /  |")
+print(" /   |")
+print("/____|")
+
+save file
+play button
+little instrucions
