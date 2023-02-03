@@ -1,0 +1,89 @@
+03-02-2023
+errors and exceptions
+
+so it is a good habit to read and understand them.
+
+print("How do you make a hot dog stand?')
+print(You take away its chair!)
+
+  File "script.py", line 1
+  print("How do you make a hot dog stand?')
+                                            ^
+SyntaxError: EOL while scanning string literal
+
+your code has an error in its syntax
+because the line ended (called an EOL)
+
+The program will abruptly stop running with the following message:
+
+Python found what it thinks is a command, 
+but doesn’t know what it means because it’s not defined anywhere.
+
+Instructions
+
+We’ve written two print statements that will raise errors. 
+One has mismatched quotes =  " ' 
+
+and the other has no quotes at all. = without quotes
+
+Fix the two print statements to successfully debug the program!
+
+stuck? get a hint
+
+Here are some helpful links 
+to the top questions 
+asked by coders about this exercise:
+
+review these themes
+
+1)What is an exception?
+
+2)What common errors should I look for?
+
+3)How should I read an error message to fix the code that caused it?
+
+Still have questions? 
+View this exercise's thread 
+in the Codecademy Forums.
+with people in community
+
+print("How do you make a hot dog stand?")
+print('You take away its chair!')
+
+12
+print("How do you make a hot dog stand?")
+print('You take away its chair!')
+Run
+
+
+Output:
+
+How do you make a hot dog stand?
+You take away its chair!
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
