@@ -1,0 +1,19 @@
+text block
+example : print "This is a good string"
+(“) 
+(‘)
+are both acceptable ways to define a string
+
+We can combine multiple strings using +, like so:
+print "This is " + "a good string"
+
+Instructions
+Try adding your name to the print statement with the + operator so that this Python program prints “Hello [your_name]”
+
+print "Hello " + "jack"
+
+
+
+
+
+
